@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "CUBES"
+date:   2020-03-09 13:59:00 -0700
+categories: past project
+---
+[CUBES][cubes-link] Center for the Utilization of Biological Engineering in Space
+Supported by NASA under grant or cooperative agreement award number NNX17AJ31G
+
+[Arkin Lab][arkin-lab-link] Adam Arkin's Bioengineering Lab at UC Berkeley
+
+[cubes-link]: https://cubes.space
+[arkin-lab-link]: https://genomics.lbl.gov
