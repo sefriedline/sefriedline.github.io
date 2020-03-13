@@ -10,7 +10,7 @@ title: Past Projects
   {% for project in site.past-projects %}
       <h2>{{ project.organization }}</h2>
       <h3 style="margin-left: 2.5em;">{{ project.dates }}</h3>
-      <p style="margin-left: 2.5em;">{{ project.content | markdownify }}</p>
+      <p>{{ project.content | markdownify }}</p>
       <br>
       <br>
 

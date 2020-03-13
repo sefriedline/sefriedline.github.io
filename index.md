@@ -4,5 +4,5 @@
 
 layout: skyhome
 ---
-Welcome to the internet record of Skyler Friedline's life and research. Look around to explore my past and present projects or to find contact information. Thanks for visiting.
-<img src="mountains.JPG">
+Welcome to the internet home of Skyler Friedline's research into biology. Look around to explore my past and present projects or to find contact information. Thanks for visiting.
+<img src="/images/mountains.JPG">
