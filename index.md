@@ -4,5 +4,5 @@
 
 layout: skyhome
 ---
-Welcome to the internet home of Skyler Friedline's research into biology. Look around to explore my past and present projects or to find contact information. Thanks for visiting.
+Welcome to Skyler Friedline's internet home! This site serves as an overview of my research and professional background as well as a hub for connecting with me socially. Look around to explore my past and present projects or to find contact information. Thanks for visiting!
 <img src="/images/mountains.JPG">

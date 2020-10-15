@@ -1,0 +1,6 @@
+---
+organization: Our Family Widens...
+---
+<p style="margin-left: 3em;">
+Emily and I adopted a kitten and have christened her Rosalind Franklin. We call her Oz for short and she runs the show around here now. Here is one picture of far too many...
+<img src="/images/rosalind-franklin.JPG">
