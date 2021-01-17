@@ -1,7 +1,7 @@
 ---
 organization: The University of California, Santa Barbara
 location: Santa Barbara, California
-position: Biochemistry and Molecular Biology BS Student
+position: Biochemistry and Molecular Biology B.S. Student
 dates: September 2012 - June 2016
 ---
 <p style="margin-left: 3em;">
