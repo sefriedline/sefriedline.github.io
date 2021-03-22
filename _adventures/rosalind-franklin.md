@@ -1,6 +1,6 @@
 ---
-organization: Our Family Widens...
+organization: Rosalind Franklin
 ---
 <p style="margin-left: 3em;">
-Emily and I adopted a kitten and have christened her Rosalind Franklin. We call her Oz for short and she runs the show around here now. Here is one picture of far too many...
+Just a picture of my Cat, Rosalind Franklin. She also goes by Oz and very graciously moved with me from California to British Columbia.
 <img src="/images/rosalind-franklin.JPG">
