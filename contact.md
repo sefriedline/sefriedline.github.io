@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-permalink: /about/
+permalink: /contact/
 ---
 
 <img src="/images/headshot.JPG" width="200" align="left" hspace="20">
