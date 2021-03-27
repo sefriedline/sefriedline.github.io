@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: SkyBio
-email: skylerbio@pm.me
+email: skyler@skybio.space
 author: Skyler Friedline
 description: >- # this means to ignore newlines until "baseurl:"
   Skyler's Website for Microbial Cooperation
